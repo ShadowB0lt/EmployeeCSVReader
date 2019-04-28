@@ -1,0 +1,76 @@
+04-04-2019 15:51:55 TRACE [main] CSVReader - Read File Started
+04-04-2019 15:51:55 TRACE [main] CSVReader - File Reader closed
+04-04-2019 15:51:58 TRACE [main] EmployeeDAO - add Employee details to database time taken 1,958,338,900
+04-04-2019 15:51:58 TRACE [main] EmployeeController -  Total Time Taken = 2,832,410,199
+04-04-2019 15:53:34 TRACE [main] CSVReader - Read File Started
+04-04-2019 15:53:34 TRACE [main] CSVReader - File Reader closed
+04-04-2019 15:53:34 TRACE [main] EmployeeDAO - add Employee details to database time taken 64,982,001
+04-04-2019 15:53:34 TRACE [main] EmployeeController -  Total Time Taken = 754,146,300
+04-04-2019 15:54:19 TRACE [main] CSVReader - Read File Started
+04-04-2019 15:54:20 TRACE [main] CSVReader - File Reader closed
+04-04-2019 15:55:00 TRACE [main] EmployeeDAO - add Employee details to database time taken 39,296,211,999
+04-04-2019 15:55:00 TRACE [main] EmployeeController -  Total Time Taken = 40,875,084,200
+05-04-2019 09:03:26 TRACE [main] CSVReader - Read File Started
+05-04-2019 09:03:27 TRACE [main] CSVReader - File Reader closed
+05-04-2019 09:04:02 TRACE [main] EmployeeDAO - add Employee details to database time taken 33,570,441,700
+05-04-2019 09:04:02 TRACE [main] EmployeeController -  Total Time Taken = 36,037,856,000
+05-04-2019 12:17:38 TRACE [main] CSVReader - Read File Started
+05-04-2019 12:17:39 TRACE [main] CSVReader - File Reader closed
+05-04-2019 12:17:44 TRACE [main] EmployeeDAO - add Employee details to database time taken 4,410,928,000
+05-04-2019 12:17:44 TRACE [main] EmployeeController -  Total Time Taken = 6,166,569,200
+05-04-2019 12:28:44 TRACE [main] CSVReader - Read File Started
+05-04-2019 12:28:46 TRACE [main] CSVReader - File Reader closed
+05-04-2019 12:31:42 TRACE [main] CSVReader - Read File Started
+05-04-2019 12:31:43 TRACE [main] CSVReader - File Reader closed
+05-04-2019 12:31:47 TRACE [main] EmployeeDAO - add Employee details to database time taken 4,538,430,500
+05-04-2019 12:31:47 TRACE [main] EmployeeController -  Total Time Taken = 5,783,883,100
+05-04-2019 13:20:33 TRACE [main] CSVReader - Read File Started
+05-04-2019 13:20:35 TRACE [main] CSVReader - File Reader closed
+05-04-2019 13:20:50 TRACE [main] CSVReader - Read File Started
+05-04-2019 13:20:51 TRACE [main] CSVReader - File Reader closed
+05-04-2019 13:20:56 TRACE [main] EmployeeDAO - add Employee details to database time taken 4,933,813,700
+05-04-2019 13:20:56 TRACE [main] EmployeeController -  Total Time Taken = 6,346,884,200
+05-04-2019 13:25:04 TRACE [main] CSVReader - Read File Started
+05-04-2019 13:25:05 TRACE [main] CSVReader - File Reader closed
+05-04-2019 13:25:10 TRACE [main] EmployeeDAO - add Employee details to database time taken 4,713,309,100
+05-04-2019 13:25:10 TRACE [main] EmployeeController -  Total Time Taken = 5,885,353,000
+05-04-2019 13:27:49 TRACE [main] CSVReader - Read File Started
+05-04-2019 13:27:50 TRACE [main] CSVReader - File Reader closed
+05-04-2019 13:28:20 TRACE [main] CSVReader - Read File Started
+05-04-2019 13:28:21 TRACE [main] CSVReader - File Reader closed
+05-04-2019 13:28:26 TRACE [main] EmployeeDAO - add Employee details to database time taken 4,882,174,100
+05-04-2019 13:28:26 TRACE [main] EmployeeController -  Total Time Taken = 5,965,691,400
+05-04-2019 17:26:42 TRACE [main] CSVReader - Read File Started
+05-04-2019 17:26:45 TRACE [main] CSVReader - File Reader closed
+05-04-2019 17:27:41 TRACE [main] CSVReader - Read File Started
+05-04-2019 17:27:41 TRACE [main] CSVReader - File Reader closed
+05-04-2019 17:28:38 TRACE [main] CSVReader - Read File Started
+05-04-2019 17:28:38 TRACE [main] CSVReader - File Reader closed
+05-04-2019 17:30:06 TRACE [main] CSVReader - Read File Started
+05-04-2019 17:30:06 TRACE [main] CSVReader - File Reader closed
+08-04-2019 09:30:59 TRACE [main] CSVReader - Read File Started
+08-04-2019 09:30:59 TRACE [main] CSVReader - File Reader closed
+08-04-2019 09:32:49 TRACE [main] CSVReader - Read File Started
+08-04-2019 09:32:49 TRACE [main] CSVReader - File Reader closed
+08-04-2019 09:44:07 TRACE [main] CSVReader - Read File Started
+08-04-2019 09:44:07 TRACE [main] CSVReader - File Reader closed
+08-04-2019 09:44:07 TRACE [main] EmployeeDAO - add Employee details to database time taken 595,705,700
+08-04-2019 09:44:07 TRACE [main] EmployeeController -  Total Time Taken = 662,433,500
+08-04-2019 10:03:01 TRACE [main] CSVReader - Read File Started
+08-04-2019 10:03:03 TRACE [main] CSVReader - File Reader closed
+08-04-2019 10:03:26 TRACE [main] EmployeeDAO - add Employee details to database time taken 22,262,342,600
+08-04-2019 10:03:26 TRACE [main] EmployeeController -  Total Time Taken = 24,658,120,600
+23-04-2019 18:05:43 TRACE [main] CSVReader - Read File Started
+23-04-2019 18:05:46 TRACE [main] CSVReader - File Reader closed
+23-04-2019 18:06:53 TRACE [main] CSVReader - Read File Started
+23-04-2019 18:06:55 TRACE [main] CSVReader - File Reader closed
+23-04-2019 18:08:14 TRACE [main] CSVReader - Read File Started
+23-04-2019 18:08:16 TRACE [main] CSVReader - File Reader closed
+23-04-2019 18:11:26 TRACE [main] CSVReader - Read File Started
+23-04-2019 18:11:29 TRACE [main] CSVReader - File Reader closed
+23-04-2019 18:13:37 TRACE [main] CSVReader - Read File Started
+23-04-2019 18:13:39 TRACE [main] CSVReader - File Reader closed
+23-04-2019 18:15:05 TRACE [main] CSVReader - Read File Started
+23-04-2019 18:15:08 TRACE [main] CSVReader - File Reader closed
+23-04-2019 18:15:20 TRACE [main] EmployeeDAO - add Employee details to database time taken 12,646,228,125
+23-04-2019 18:15:20 TRACE [main] EmployeeController -  Total Time Taken = 14,921,014,377
